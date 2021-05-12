@@ -29,7 +29,7 @@ public class CompanyDaoTest {
         Company company = companyDao.findById("1").get();
         System.out.println("test"+company);
         System.out.println("test2"+company);
-
+        System.out.println("test3"+company);
 
 
     }
