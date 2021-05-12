@@ -32,6 +32,9 @@ public class CompanyDaoTest {
         System.out.println("test3"+company);
         System.out.println("master-test3"+company);
         System.out.println("test");
+        System.out.println("master-test4"+company);
+        System.out.println("master-test5"+company);
+
     }
 
 }
