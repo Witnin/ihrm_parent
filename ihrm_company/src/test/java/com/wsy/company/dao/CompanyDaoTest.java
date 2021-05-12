@@ -28,6 +28,8 @@ public class CompanyDaoTest {
     public void test(){
         Company company = companyDao.findById("1").get();
         System.out.println("test"+company);
+        System.out.println("test2"+company);
+
 
 
     }
